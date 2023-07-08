@@ -1,0 +1,85 @@
+html {
+    height: 100vh;
+}
+body {
+    height: 100%;
+}
+body,
+ul,
+ol,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+figure,
+form,
+fieldset,
+legend,
+input,
+textarea,
+button,
+p,
+blockquote,
+th,
+td,
+pre,
+xmp {
+    margin: 0;
+    padding: 0
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+b,
+strong {
+    font-weight: normal
+}
+
+address,
+cite,
+dfn,
+em,
+i,
+optgroup,
+var {
+    font-style: normal
+}
+
+ul,
+ol,
+menu {
+    list-style: none
+}
+
+article,
+aside,
+footer,
+header,
+section,
+nav,
+figure,
+figcaption,
+hgroup,
+details,
+menu {
+    display: block
+}
+
+a,
+ins,
+s,
+u,
+del {
+    text-decoration: none
+}
+* {
+    box-sizing: border-box;
+}
